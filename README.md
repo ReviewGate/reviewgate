@@ -9,6 +9,7 @@ and nothing is reported back to the vendor.
 - Site and documentation: **https://reviewgate.dev**
 - Live reviews on 13 real pull requests: **https://reviewgate.dev/demo**
 - Русская версия: **https://reviewgate.dev/ru/**
+- License: see [LICENSE](LICENSE) — free, including commercial use
 
 This repository distributes the **releases**. The source is not published; the binaries below
 are the same artifacts served from the site.
