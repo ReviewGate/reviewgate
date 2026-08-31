@@ -1,0 +1,70 @@
+ReviewGate — End-User License Agreement
+Version 1.0, 30 August 2026
+
+ReviewGate ("the Software") is provided free of charge by its author ("the Author").
+By downloading, installing or using the Software, you accept these terms.
+
+1. Licence granted
+
+You are granted a free, worldwide, non-exclusive, non-transferable licence to use the
+Software:
+
+- for any purpose, including commercial use within your organisation;
+- on any number of machines, by any number of people;
+- with no account, no registration and no activation.
+
+No fee is charged for the Software. You pay your model provider directly, under your own
+agreement with them.
+
+2. What you may not do
+
+- redistribute the Software for a fee, or as part of a paid product or service;
+- provide the Software to third parties as a hosted or managed service;
+- modify, disassemble, decompile or reverse engineer the Software, except where this
+  restriction is prohibited by applicable law;
+- remove or obscure copyright, licence or authorship notices;
+- move, change, disable or circumvent the licence key mechanism.
+
+Redistributing the Software unmodified and free of charge — for example, mirroring the
+binaries inside your own network — is permitted and encouraged.
+
+3. Ownership
+
+The Software is licensed, not sold. All rights in the Software remain with the Author.
+Nothing in these terms grants you any right to the source code, which is not published.
+
+4. Your code and your model
+
+The Software runs on your own infrastructure and sends your code only to the model provider
+you configure, using your own key. The Author receives nothing: no telemetry, no diffs, no
+source code. You are responsible for your agreement with the model provider and for what you
+choose to send to it.
+
+5. No warranty
+
+The Software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a particular
+purpose and non-infringement. Review findings are produced by probabilistic models: they can
+be wrong, incomplete or misleading. You decide whether a finding applies to your code, and
+every merge decision remains with your team.
+
+6. Limitation of liability
+
+To the maximum extent permitted by applicable law, the Author shall not be liable for any
+damages arising out of the use of, or inability to use, the Software — including lost
+profits, lost data, or defects that a review failed to detect.
+
+7. Term and termination
+
+This licence applies for as long as you comply with it. If you breach it, the licence
+terminates automatically, and you must stop using the Software and delete your copies.
+
+8. Changes to these terms
+
+The Author may publish new versions of these terms. The version in force is the one
+distributed with the release you installed; a new version applies from the release that
+carries it.
+
+9. Contact
+
+https://t.me/ReviewGate
