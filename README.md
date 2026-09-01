@@ -58,6 +58,21 @@ Platforms: `darwin-arm64`, `darwin-x64`, `linux-x64`, `linux-x64-musl`, `linux-a
 The same files are served from the site — https://reviewgate.dev/dl/ — use whichever is
 faster for you.
 
+### Claude Code plugin
+
+Two commands wire everything at once: the MCP tools (`get_team_rules`,
+`review_changes`), a pre-push review gate, and the skills that make the agent
+review its changes before calling work done. The plugin needs the CLI binary
+from the section above.
+
+```
+/plugin marketplace add ReviewGate/reviewgate
+/plugin install reviewgate@reviewgate
+```
+
+Or from the shell: `claude plugin marketplace add ReviewGate/reviewgate`,
+then `claude plugin install reviewgate@reviewgate`.
+
 ### Bot on a pull request
 
 ```bash

@@ -1,0 +1,14 @@
+{
+  "name": "reviewgate",
+  "description": "ReviewGate marketplace — AI code review by your team's standards.",
+  "owner": { "name": "ReviewGate", "url": "https://reviewgate.dev" },
+  "plugins": [
+    {
+      "name": "reviewgate",
+      "source": "./plugins/reviewgate",
+      "description": "AI code review by your team's standards: MCP tools (get_team_rules, review_changes), a pre-push review gate, and skills that make the agent review its changes before calling work done.",
+      "category": "code-analysis",
+      "homepage": "https://reviewgate.dev"
+    }
+  ]
+}
