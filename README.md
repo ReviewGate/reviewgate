@@ -55,8 +55,8 @@ reviewgate doctor
 Platforms: `darwin-arm64`, `darwin-x64`, `linux-x64`, `linux-x64-musl`, `linux-arm64`,
 `win-x64`. Checksums are published with every release as `SHA256SUMS`.
 
-The same files are served from the site — https://reviewgate.dev/dl/ — use whichever is
-faster for you.
+The same files are served from the site — https://reviewgate.dev/docs/agents lists every
+platform with its download command — use whichever is faster for you.
 
 ### Claude Code plugin
 
