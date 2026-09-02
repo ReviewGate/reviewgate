@@ -1,6 +1,6 @@
 {
   "name": "reviewgate",
-  "description": "AI code review by your team's standards — while the agent works, not after. MCP tools get_team_rules / review_changes, a pre-push review gate, and skills that make the agent check its changes before calling work done. Bring your own model key; code never leaves your infrastructure.",
+  "description": "Reviews changes against the rules your team actually wrote — while the agent works, not after. A generator finds problems, an independent judge refutes them against full files, so the noise stays down. MCP tools get_team_rules / review_changes, plus a pre-push gate. Your own model key; code never leaves your infrastructure.",
   "version": "1.0.0",
   "author": { "name": "ReviewGate", "url": "https://reviewgate.dev" },
   "homepage": "https://reviewgate.dev",
